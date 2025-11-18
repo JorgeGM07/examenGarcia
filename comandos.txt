@@ -28,3 +28,7 @@
 
 9.
     1. echo "select * from clientes" >> ../../login
+
+10.
+    1. cd ../../..
+    2. rm -r examenGarcia
