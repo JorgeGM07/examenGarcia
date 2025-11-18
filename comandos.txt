@@ -11,4 +11,8 @@
     2. cp ../prog/index.php ../bbdd/consultas.sql
 
 4.
+    1. cd examenGarcia          //igual
+    2. mkdir si/git
+
+5.
     
