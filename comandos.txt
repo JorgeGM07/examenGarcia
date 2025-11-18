@@ -2,3 +2,8 @@
     1. mkdir examenGarcia
     2. cd examenGarcia
     3. mkdir prog si bbdd
+
+2.
+    1. touch prog/index.php     //he subido y bajado para el commit pero no lo pongo por redundancia
+
+3.
