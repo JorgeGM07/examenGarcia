@@ -7,3 +7,8 @@
     1. touch prog/index.php     //he subido y bajado para el commit pero no lo pongo por redundancia
 
 3.
+    1. cd si                    //aqui igual
+    2. cp ../prog/index.php ../bbdd/consultas.sql
+
+4.
+    
